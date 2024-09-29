@@ -1,1 +1,1 @@
-* Simple code for training non static and satic methods
+* Simple code for training non static and static methods
